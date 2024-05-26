@@ -1,0 +1,3 @@
+Project Description:
+
+Universities are complex environments with various roles contributing to their functioning. This code snippet models a simplified university structure, incorporating three key groups of people: students, faculty, and staff. Each group has unique attributes and behaviors, but they share commonalities that make them part of the broader university community. The code uses object-oriented programming concepts to define these roles and their characteristics. At the core, there's an abstract base class, Person, which provides common attributes and behaviors shared by all people in the university. This class acts as a blueprint for derived classes, allowing for both inheritance and polymorphism.
